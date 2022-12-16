@@ -1,4 +1,3 @@
-Aplikasi dibuat dengan Delphi Rio
-kelengkapan aplikasi:
+Aplikasi dibuat dengan Delphi Rio, kelengkapan aplikasi:
 - UniDAC
 - FastReport
