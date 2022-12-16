@@ -1,0 +1,20 @@
+object fBrowse2: TfBrowse2
+  Left = 0
+  Top = 0
+  Caption = 'Lihat Berkas'
+  ClientHeight = 521
+  ClientWidth = 814
+  Position = MainFormCenter
+  WindowState = wsMaximized
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object WebBrowser1: TWebBrowser
+    Align = Client
+    Size.Width = 814.000000000000000000
+    Size.Height = 521.000000000000000000
+    Size.PlatformDefault = False
+  end
+end
